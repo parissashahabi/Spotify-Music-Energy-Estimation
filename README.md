@@ -26,7 +26,7 @@ The project involves several key steps:
 
 - Comparison between MLPRegressor and LinearRegression in terms of accuracy.
 
-  ![MLP vs Linear Regression Accuracy Comparison](image-path.jpg)
+  ![MLP vs Linear Regression Accuracy Comparison](models_comparison.png)
 
 - Insights on optimal parameters and structures for MLP and other machine learning algorithms to achieve the best results.
 
